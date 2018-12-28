@@ -1,0 +1,7 @@
+Instructions to run the code:
+
+1. Install apache server, if not installed.
+2. Install php 5.6 or above, if not installed.
+3. Place the file(prime-program.php) in root folder(localhost).
+4. Alternatively, you can install xampp/lampp depending on OS, and place the file(prime-program.php) in htdocs.
+5. Run the file by opening URL in the browser 'http://localhost/prime-program.php' ('http://localhost/' + path to the file).
